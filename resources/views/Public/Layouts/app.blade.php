@@ -2,14 +2,14 @@
 
 <head>
     <!-- Site Title-->
-    <title>Ayurvedic Medicinal Plants</title>
+    <title>Nenabima Education Platform</title>
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport"
         content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="keywords" content="Care Free Now,">
-    <link rel="shortcut icon" href="{{ asset('home/img/favicon.png')}}" type="image">
+    <link rel="shortcut icon" href="{{ asset('home/img/favicon1.png')}}" type="image">
 
     @include('Public.Includes.css')
     @php

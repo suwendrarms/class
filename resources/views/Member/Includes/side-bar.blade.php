@@ -6,9 +6,8 @@
         <!-- Brand -->
         <div class="sidenav-header  align-items-center">
             <a class="navbar-brand" href="javascript:void(0)">
-                <img src="{{ asset('img/logo.png') }}" class="navbar-brand-img" alt="..."><br>
-                <small style="color:black; font-size:9.5px">Powered by Knowledge Health
-                    Solutions</small>
+                <img src="{{ asset('img/nenabima1.png') }}" class="navbar-brand-img" alt="..." width="250" height="90"><br>
+                
             </a>
         </div>
         <div class="navbar-inner">

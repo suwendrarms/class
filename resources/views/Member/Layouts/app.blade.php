@@ -10,11 +10,11 @@
     <!-- iOS Safari -->
     <meta name="apple-mobile-web-app-status-bar-style" content="#2b2c5a">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="author" content="Care Free Now Platform">
-    <meta name="description" content="A Member Dashboard for Care Free Now Platform">
+    <meta name="author" content="Nenabima Education Platform">
+    <meta name="description" content="A Member Dashboard for Nenabima Education Platform">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <link rel="shortcut icon" href="{{ asset('img/favicon.png') }}" type="image/png">
-    <title>@yield('pg-title','Member Area | Care Free Now')</title>
+    <link rel="shortcut icon" href="{{ asset('img/favicon1.png') }}" type="image/png">
+    <title>@yield('pg-title','Member Area | Nenabima Education Platform')</title>
     @include('Member.Includes.css')
 
 </head>

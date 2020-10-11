@@ -7,10 +7,9 @@
         <div class="rd-navbar-inner">
             <div class="rd-navbar-top-panel">
                 <!--Navbar Brand-->
-                <div class="rd-navbar-brand veil reveal-md-inline-block"><a href="{{ route('home') }}"><img width='171'
-                            height='52' class='img-responsive' src="{{ asset('publicArea/images/nenabima.png') }}"
-                            alt='' /><br> <small style="color:white; font-size:11px">Powered by Knowledge Health
-                            Solutions</small>
+                <div class="rd-navbar-brand veil reveal-md-inline-block"><a href="{{ route('home') }}"><img width='300'
+                            height='70' class='img-responsive' src="{{ asset('publicArea/images/nenabima1.png') }}"
+                            alt='' /><br> <small style="color:white; font-size:11px"></small>
                     </a>
 
                 </div>

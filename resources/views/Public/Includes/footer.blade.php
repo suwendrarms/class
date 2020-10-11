@@ -53,7 +53,7 @@
                     </div>
                     <div class="cell-xs-10 offset-top-66 cell-md-4 cell-md-push-1 offset-md-top-0">
                         <div class="footer-brand"><a href="{{ route('home') }}"><img width='181' height='52'
-                                    class='img-responsive mb-3 ml-2' src="{{ asset('publicArea/images/care.png') }}"
+                                    class='img-responsive mb-3 ml-2' src="{{ asset('publicArea/images/nenabima1.png') }}"
                                     alt='' /></a>
                         </div>
                         {{-- <div class="offset-top-30">
