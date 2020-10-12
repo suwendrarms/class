@@ -7,8 +7,8 @@
         <div class="rd-navbar-inner">
             <div class="rd-navbar-top-panel">
                 <!--Navbar Brand-->
-                <div class="rd-navbar-brand veil reveal-md-inline-block"><a href="{{ route('home') }}"><img width='171'
-                            height='52' class='img-responsive' src="{{ asset('img/logo.png') }}" alt='' /></a>
+                <div class="rd-navbar-brand veil reveal-md-inline-block"><a href="{{ route('home') }}"><img width='300'
+                            height='70' class='img-responsive' src="{{ asset('img/nenabima1.png') }}" alt='' /></a>
                 </div>
                 <div>
                     <address class="contact-info reveal-sm-inline-block text-left offset-none">
@@ -44,7 +44,7 @@
                     data-rd-navbar-toggle=".rd-navbar, .rd-navbar-nav-wrap"><span></span></button>
                 <!--Navbar Brand-->
                 <div class="rd-navbar-brand veil-lg"><a href="{{ route('home') }}"><img width='151' height='52'
-                            class='img-responsive' src="{{ asset('publicArea/images/logo-dark.png') }}" alt='' /></a>
+                            class='img-responsive' src="{{ asset('publicArea/images/nenabima1.png') }}" alt='' /></a>
                 </div>
                 <button class="rd-navbar-top-panel-toggle"
                     data-rd-navbar-toggle=".rd-navbar, .rd-navbar-top-panel"><span></span></button>
@@ -54,7 +54,7 @@
                     <div class="rd-navbar-mobile-scroll">
                         <!--Navbar Brand Mobile-->
                         <div class="rd-navbar-mobile-brand"><a href="{{ route('home') }}"><img width='151' height='52'
-                                    class='img-responsive' src="{{ asset('publicArea/images/logo-dark.png') }}"
+                                    class='img-responsive' src="{{ asset('publicArea/images/nenabima1.png') }}"
                                     alt='' /></a>
                         </div>
                         <div class="form-search-wrap">
