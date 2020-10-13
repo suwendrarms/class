@@ -7,14 +7,14 @@
 
     </header>
     <!-- Modern Breadcrumbs-->
-    <section class="breadcrumb-modern context-dark text-md-left">
+    <section class="bg-work-image context-dark text-md-left">
         <div class="shell section-34 section-md-top-110 section-md-bottom-41">
-            <h2>How It Works</h2>
+            <h2>How We Works</h2>
             <ul class="list-inline list-inline-arrows p offset-top-34 offset-md-top-70">
                 <li><a class="text-white" href="{{ route('home') }}">Home&nbsp;</a>
                 </li>
                 <i class="fas fa-xs fa-arrow-right"></i>
-                <li class="text-white-50">How It Works
+                <li class="text-white-50">How We Works
                 </li>
             </ul>
         </div>
@@ -24,33 +24,20 @@
         <div class="shell">
             <div class="range range-xs-center range-md-left">
                 <div class="container">
-                    <h4>CareFreeNow is designed to be the most patient centric healthcare application today:</h4>
-                    <h5>1. Qualify</h5>
-                    <p>Create your 100% Free and Secure CFN account and complete your application with relevant medical
-                        information.
+                    <h4>Nenabima Education Platform  අද වඩාත්ම දැයේ දරුවන් කේන්ද්‍ර කරගත් විද්‍යාත්මක​ ඉගෙනුම්  යෙදුමක් ලෙස නිර්මාණය කර ඇත.</h4>
+                    <h5>1. දැනුම</h5>
+                    <p>ගෝලීයකරණයත් සමග මිනිසා දැනුම සෙවිමට යොමු විය​.එමෙන්ම තරගකාරිත්වය මත විකාශනය වන ඉගෙනුම් රටාවක්ද බිහිි විය​.
+                        ඒ තුල ගමන් කරන ඔබේ දරුවා දැනුමෙන් සන්නද්ධ කිරීම අපේ අරමුණයි.
                     </p>
-                    <h5>2. Preventative &amp; Medical Services</h5>
-                    <p>Based on your information and medical history, CFN identifies medical services that you will
-                        beneift from.
-                        This includes preventative options such as genetic screening for cancer and medications, or
-                        medical care
-                        options for pain management, and even legal windfall options under TORT. </p>
-                    <h5>3. Physician Consult</h5>
-                    <p>Based on the services recommended, physician consultations are scheduled within CFN. The
-                        physician will
-                        review your information and recommend services and tests that you are most likely to benefit
-                        from. Vast
-                        majority of these recommended services are provided at no cost to the patient as they are
-                        covered by the
-                        insurance provider (whether private, medicare, or medicaid). </p>
-                    <h5>4. Legal Consults</h5>
-                    <p>Based on your personal history, you may qualify for legal windfall benefits. For example, you may
-                        be owed
-                        benefits from a recently issued TORT settlement. Or you may qualify for benefits due to work
-                        injury or
-                        medical malpractice. A qualified attorney team will reach out based on your history. Once again,
-                        this
-                        service is provided at no cost to the patient! </p>
+                    <h5>2. ආකල්ප</h5>
+                    <p>දැනුම පමණක් නොව දිවි ගමන සාර්ථක කර ගැනිමට අවශය වන 
+                        ආධයාත්මික ගුණාංගයන් හදවත් තුල රෝපණය කරමින් දරුවාගේ ආකල්ප සංවර්ධනය කර යහපත් පුරවැසියෙකු දායාද කිරීම අපේ අරමුණයි.</p>
+                    <h5>3. කුසලතා</h5>
+                    <p>දැනුම ,ආකල්ප වලින් පිරිපුන් කල දරුවන් කුසලතාවයන් පිරි දරු පරපුරක් බවට පත් කොට ශිල්ප 
+                        ඥානය ප්‍රායෝගිකව තම දියුණුවටත් සමාජ යහපතටත් යෙදවිය හැකි දරුවෙකු අපේ අරමුණයි. </p>
+                    <h5>4. ස්වයං අධ්‍යයනය</h5>
+                    <p>ගුරුවරයා යනු මග පෙන්වන්නෙකි.ගෝලීයකරණයත් සමග ගුරුකේන්ඳ්‍රීය අධ්‍යාපනයෙන් මිදී ශිෂ්‍යකේන්ඳ්‍රීය 
+                        අධ්‍යාපන රටාවකට යොමු විම හේතුවෙන් ස්වයං අධ්‍යයනය සුවිශේෂය. </p>
                 </div>
             </div>
         </div>
@@ -69,6 +56,15 @@
 
     .icon-gray-light {
         background: #e5e5e5;
+    }
+
+    .bg-work-image {
+        background: url("{{ asset('publicArea/images/baner2.png') }}");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 170px;
+
     }
 
 </style>

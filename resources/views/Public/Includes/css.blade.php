@@ -16,6 +16,8 @@
         margin-top: 11px !important;
     }
 
+    
+
     .short {
         max-height: 142px;
     }
@@ -57,7 +59,7 @@
     .text {
         color: white;
         font-size: 20px;
-        padding: 15%;
+        padding: 10%;
         text-align: center;
     }
 

@@ -28,24 +28,58 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
+
                             <h4 class="text-lefts">
-                                <strong>CareFreeNow can help you and your loved ones gain the peace of mind
-                                    during the Covid-19
-                                    pandemic.</strong>
+                                <strong>සහයෝගිතාව යනු අපගේ බලවත්ම ආයුධයකි</strong>
                             </h4>
-                            <h5>On creating your account, you will be prompted with a few questions that will help
-                                identify your risks, and help you prepare by providing:</h5>
-                            <ul>
-                                <li> At-home Testing options</li>
-                                <li>Self-screening directions</li>
-                                <li>Access to your PCP via telemedicine</li>
-                                <li>First-line-of-defense products such as masks, gloves, hand sanitizers and so on.
-                                </li>
-                            </ul>
-                            <h4>During this time, we are also making all sections of CareFreeNow available at no cost to
-                                ensure health risk assessments can be completed without any concerns. </h4>
+                            <h5>
+                                2019 දෙසැම්බර් 31 වන දින චීනයේ වුහාන් හි නොදන්නා හේතුවක් නිසා නියුමෝනියාව වැළඳී ඇති බවට චීනයේ ලෝක සෞඛ්‍ය සංවිධානයේ කාර්යාලයට දැනුම් දෙන ලදී. බලධාරීන් විසින් කොරොන වයිරස් වර්ගයක් හඳුනා ගන්නා ලද අතර පසුව එය COVID-19 ලෙස නම් කරන ලදී. 2020 ජනවාරි 30 වන දින ලෝක සෞඛ්‍ය සංවිධානයේ අධ්‍යක්ෂ ජනරාල් විසින් COVID-19 පුපුරා යාම ජාත්‍යන්තර සෞඛ්‍ය පිළිබඳ මහජන සෞඛ්‍ය හදිසි අවස්ථාවක් (PHEIC) ලෙස ප්‍රකාශයට පත් කළ අතර 2020 මාර්තු 11 වන දින COVID-19 වසංගතයක් ලෙස සංලක්ෂිත විය.
+                                
+                                 
+                                
+                                සෞඛ්‍ය හා දේශීය වෛද්‍ය සේවා අමාත්‍යාංශය ශ්‍රී ලංකාව සඳහා වන ලෝක සෞඛ්‍ය සංවිධානයේ කාර්යාලය සමඟ එක්ව මෙම තත්වය සමීපව අධීක්ෂණය කිරීම සහ සූදානම සහ ප්‍රතිචාර දැක්වීමේ උත්සාහයන් ශක්තිමත් කිරීම. COVID-19 සමඟ effectively ලදායී හා කාර්යක්ෂමව සටන් කිරීම සඳහා අපි ප්‍රධාන හවුල්කරුවන් සමඟ සමීපව කටයුතු කරන්නෙමු. මෙම වසංගතයට මාස හයකට වඩා වැඩි කාලයක් තුළ, COVID-19 පැතිරීම පාලනය කිරීම සඳහා ශ්‍රී ලංකාව විශාල ප්‍රගතියක් ලබා ඇත. කෙසේ වෙතත්, තර්ජනය තවම අවසන් නැත. අප, අපගේ ආදරණීයයන් සහ අපගේ ප්‍රජාවන් ආරක්‍ෂිත, 
+                                සෞඛ්‍ය සම්පන්න සහ සමෘද්ධිමත් ලෙස තබා ගැනීම සඳහා ලබා ඇති ප්‍රගතිය මත අප ගොඩනැගිය යුතුය.</h5>
+                            
 
-
+                                <div class="range offset-top-60 text-md-left">
+                                    <div class="container cell-sm-6 cell-md-4">
+                                        <div class="service"><img class="img-responsive"
+                                                src="{{ asset('../publicArea/images/covid/c1.jpg') }}" width="320" height="320"
+                                                alt="" />
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="container cell-sm-6 cell-md-4 offset-top-50 offset-sm-top-0">
+                                        <div class="service"><img class="img-responsive"
+                                                src="{{ asset('../publicArea/images/covid/c2.jpg') }}" width="320" height="320" alt="" />
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="container cell-sm-6 cell-md-4 offset-top-50 offset-md-top-0">
+                                        <div class="service"><img class="img-responsive"
+                                                src="{{ asset('../publicArea/images/covid/c3.png') }}" width="320" height="320" alt="" />
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="container cell-sm-6 cell-md-4 offset-top-50">
+                                        <div class="service"><img class="img-responsive"
+                                                src="{{ asset('../publicArea/images/covid/c3.jpg') }}" width="320" height="320" alt="" />
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="container cell-sm-6 cell-md-4 offset-top-50">
+                                        <div class="service"><img class="img-responsive"
+                                                src="{{ asset('../publicArea/images/covid/c4.jpg') }}" width="320" height="320" alt="" />
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="container cell-sm-6 cell-md-4 offset-top-50">
+                                        <div class="service"><img class="img-responsive"
+                                                src="{{ asset('../publicArea/images/covid/c5.jpg') }}" width="320" height="320" alt="" />
+                                            
+                                        </div>
+                                    </div>
+                                </div>
                         </div>
                         <div class="col-lg-12" style="margin-top:50px;">
                             <h6 class="text-center">

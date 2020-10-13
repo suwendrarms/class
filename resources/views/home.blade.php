@@ -8,18 +8,18 @@
                 data-slide-effect="fade" data-dragable="false" data-min-height="400px" data-autoplay="5000">
                 <div class="swiper-wrapper text-center">
                     <div class="swiper-slide" id="page-loader"
-                        data-slide-bg="{{ asset('publicArea/images/s3.jpg') }}">
+                        data-slide-bg="{{ asset('publicArea/images/baner1.png') }}">
                         <div class="swiper-caption">
                             <div class="swiper-slide-caption">
                                 <div class="shell">
                                     <div class="range">
                                         <div class="cell-md-7 section-slider-custom">
                                             <div class="inset-lg-right-80 text-md-left">
-                                                <h2>Take Care of<br class="veil reveal-md-block"> Your Health
+                                                <h2>Take Care of<br class="veil reveal-md-block"> Your Future
                                                 </h2>
-                                                <h5 class="veil reveal-md-block mw-400">At Care Free Now, we are
+                                                <h5 class="veil reveal-md-block mw-400">At Nenabima Education Platform, we are
                                                     dedicated
-                                                    to diagnosing all kinds of diseases.</h5><a
+                                                    to diagnosing all kinds of Errors of yor Education life.</h5><a
                                                     class="btn btn-ellipse btn-white offset-top-24"
                                                     href="{{ route('login') }}">get
                                                     started</a>
@@ -30,7 +30,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide" data-slide-bg="{{ asset('publicArea/images/s4.jpg') }}">
+                    <div class="swiper-slide" data-slide-bg="{{ asset('publicArea/images/baner2.png') }}">
                         <div class="swiper-caption">
                             <div class="swiper-slide-caption">
                                 <div class="shell">
@@ -40,7 +40,7 @@
                                                 <h2>Years of<br class="veil reveal-md-block">Experience
                                                 </h2>
                                                 <h5 class="veil reveal-md-block mw-400">Since our foundation, we
-                                                    deliver the best solutions in diagnosing various diseases.</h5>
+                                                    deliver the best solutions in diagnosing various eooros of life.</h5>
                                                 <a class="btn btn-ellipse btn-white offset-top-24"
                                                     href="{{ route('login') }}">get
                                                     started</a>
@@ -51,7 +51,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide" data-slide-bg="{{ asset('publicArea/images/s5.jpg') }}">
+                    <div class="swiper-slide" data-slide-bg="{{ asset('publicArea/images/baner3.png') }}">
                         <div class="swiper-caption">
                             <div class="swiper-slide-caption">
                                 <div class="shell">
@@ -60,7 +60,7 @@
                                             <div class="text-md-left">
                                                 <h2>Qualified Team<br class="veil reveal-md-block">of Experts</h2>
                                                 <h5 class="veil reveal-md-block mw-400">Our team of diagnosticians
-                                                    is always ready to help you be more healthy.</h5><a
+                                                    is always ready to help you be more Education.</h5><a
                                                     class="btn btn-ellipse btn-white offset-top-24"
                                                     href="{{ route('login') }}">get
                                                     started</a>
@@ -85,15 +85,15 @@
                     <div class="sheldue-item first">
                         <div class="sheldue-item-body">
                             <div class="icon icon-xs text-white-50"><i class="far fa-clock"></i></div>
-                            <h6 class="small reveal-inline-block inset-left-10 text-white">Qualify</h6>
+                            <h6 class="small reveal-inline-block inset-left-10 text-white">දැනුම​</h6>
                             <hr style="margin-bottom: 5px;">
                             <div class="offset-top-24 text-gray-light">
-                                <p>Create your 100% Free and Secure CFN account and complete your application with
-                                    relevant medical information.</p>
+                                <p>ගෝලීයකරණයත් සමග මිනිසා දැනුම සෙවිමට යොමු විය​.එමෙන්ම තරගකාරිත්වය මත විකාශනය වන ඉගෙනුම් රටාවක්ද බිහිි විය​.
+                                    ඒ තුල ගමන් කරන ඔබේ දරුවා දැනුමෙන් සන්නද්ධ කිරීම අපේ අරමුණයි. </p>
                             </div>
                         </div>
                         <div class="sheldue-more"><a class="btn btn-white btn-block btn-rect"
-                                href="">READ
+                                href="{{route('work')}}">READ
                                 MORE</a></div>
                     </div>
                 </div>
@@ -101,34 +101,32 @@
                     <div class="sheldue-item light">
                         <div class="sheldue-item-body">
                             <div class="icon icon-xs text-white-50"><i class="fas fa-calendar-day"></i></div>
-                            <h6 class="small reveal-inline-block inset-left-10 text-white">Preventative</h6>
+                            <h6 class="small reveal-inline-block inset-left-10 text-white">ආකල්ප​</h6>
                             <hr style="margin-bottom: 5px;">
                             <div class="offset-top-12 text-gray-light">
-                                <p>Based on your information and medical history, CFN identifies medical services that
-                                    you will beneift from. This includes preventative options such as genetic screening
-                                    for cancer and medications.</p>
+                                <p>දැනුම පමණක් නොව දිවි ගමන සාර්ථක කර ගැනිමට අවශය වන 
+                                    ආධයාත්මික ගුණාංගයන් හදවත් තුල රෝපණය කරමින් දරුවාගේ ආකල්ප සංවර්ධනය කර යහපත් පුරවැසියෙකු දායාද කිරීම අපේ අරමුණයි.</p>
                             </div>
                         </div>
                         <div class="sheldue-more"><a class="btn btn-white btn-block btn-rect"
-                                href="">READ
+                                href="{{route('work')}}">READ
                                 MORE</a></div>
                     </div>
                 </div>
                 <div class="cell-sm-8 cell-md-5 cell-lg-3 offset-top-70 offset-lg-top-0">
                     <div class="sheldue-item">
                         <div class="sheldue-item-body">
-                            <div class="icon icon-xs text-white-50"><i class="fas fa-phone fa-rotate-90"></i>
+                            <div class="icon icon-xs text-white-50"><i class="fas fa-flug"></i>
                             </div>
-                            <h6 class="small reveal-inline-block inset-left-10 text-white">Physician Consult</h6>
+                            <h6 class="small reveal-inline-block inset-left-10 text-white">කුසලතා</h6>
                             <hr style="margin-bottom: 5px;">
                             <div class="offset-top-24 text-gray-light">
-                                <p>Based on the services recommended, physician consultations are scheduled within CFN.
-                                    The physician will review your information and recommend services and tests that you
-                                    are most likely to benefit from.</p>
+                                <p>දැනුම ,ආකල්ප වලින් පිරිපුන් කල දරුවන් කුසලතාවයන් පිරි දරු පරපුරක් බවට පත් කොට ශිල්ප 
+                                    ඥානය ප්‍රායෝගිකව තම දියුණුවටත් සමාජ යහපතටත් යෙදවිය හැකි දරුවෙකු අපේ අරමුණයි.<p>
                             </div>
                         </div>
                         <div class="sheldue-more"><a class="btn btn-white btn-block btn-rect"
-                                href="">READ
+                                href="{{route('work')}}">READ
                                 MORE</a></div>
                     </div>
                 </div>
@@ -136,15 +134,16 @@
                     <div class="sheldue-item light last">
                         <div class="sheldue-item-body">
                             <div class="icon icon-xs text-white-50"><i class="fas fa-first-aid"></i></div>
-                            <h6 class="small reveal-inline-block inset-left-10 text-white">Legal Consults</h6>
+                            <h6 class="small reveal-inline-block inset-left-10 text-white">
+                                ස්වයං අධ්‍යයනය</h6>
                             <hr>
                             <div class="offset-top-24 text-gray-light">
-                                <p>Based on your personal history, you may qualify for legal windfall benefits. For
-                                    example, you may be owed benefits from a recently issued TORT settlement..</p>
+                                <p>ගුරුවරයා යනු මග පෙන්වන්නෙකි.ගෝලීයකරණයත් සමග ගුරුකේන්ඳ්‍රීය අධ්‍යාපනයෙන් මිදී ශිෂ්‍යකේන්ඳ්‍රීය 
+                                    අධ්‍යාපන රටාවකට යොමු විම හේතුවෙන් ස්වයං අධ්‍යයනය සුවිශේෂය.</p>
                             </div>
                         </div>
                         <div class="sheldue-more"><a class="btn btn-white btn-block btn-rect"
-                                href="">READ
+                        href="{{route('work')}}">READ
                                 MORE</a></div>
                     </div>
                 </div>
@@ -155,44 +154,49 @@
     <section class="section-98 section-sm-110 bg-white-liac">
         <div id="about" class="shell">
             <h3>About Us</h3>
-            <h6 style="text-transform:none;">CareFree provides high-quality, physician-ordered,
-                genetic testing. We include
-                support for physicians,
-                as well as genetic counseling as part of every testing procedure. Our goal is to provide awareness of
-                genetic testing to help provide results of common hereditary cancers and to help save lives.</h6>
+            <h6 style="text-transform:none;">The Nenabima Education Platform offers a range of home study courses 
+                including school and university education courses to students in the SriLanka and overseas.Also sip sayura have lots 
+                of e-publications based on education. We always following and applying to our education system new update technologies.We have 
+                a powerful lecturers panel and we are always trying to swipe to new page for future with innovations for developing our education system. 
+                We are doing some fight to pull up the education level of our world's students always.</h6>
             <div class="range offset-top-60">
                 <div class="cell-md-4">
-                    <div class="icon icon-xlg icon-circle icon-default icon-pills-xl"></div>
-                    <h5 class="text-bold text-gray-darkest">Get Approved</h5>
-                    <p>One of our physicians will review your medical history using our Electronic Health Records
-                        platform to determine your testing needs.</p>
+                    <div class="icon icon-xlg icon-circle icon-default  icon-pills-xl"></div>
+                    <h5 class="text-bold text-gray-darkest">Worldwide</h5>
+                    <p>Nenabima Education Platform provides a efficient and effective learning management system services for educational needs not only in 
+                        Sri Lanka but worldwide. </p>
                 </div>
                 <div class="cell-md-4 offset-top-50 offset-md-top-0">
                     <div class="icon icon-xlg icon-circle icon-default icon-doctor-xl"></div>
-                    <h5 class="text-bold text-gray-darkest">Get Swabbed</h5>
-                    <p>Once you have been approved, Your kit will be mailed to you. You swab according to the enclosed
-                        instructions. Then mail the kit to the lab fulfillment center for analysis.</p>
+                    <h5 class="text-bold text-gray-darkest">Online Study</h5>
+                    <p>Nenabima Education Platform has many courses specially prepared for students to study online that are conducted by highly qualified lecturers. </p>
+                </div>
+                <div class="cell-md-4 offset-top-50 offset-md-top-0">
+                    <div class="icon icon-xlg icon-circle icon-default icon-doctor-01"></div>
+                    <h5 class="text-bold text-gray-darkest">For Lecturers</h5>
+                    <p>Nenabima Education Platform has a learning management system that enables lecturers to carry out teaching 
+                        work extensively and effectively with most advanced technology. </p>
                 </div>
                 <div class="cell-md-4 offset-top-50 offset-md-top-0">
                     <div class="icon icon-xlg icon-circle icon-default icon-medical-car-xl"></div>
-                    <h5 class="text-bold text-gray-darkest">Get Results</h5>
-                    <p>Lab results are uploaded into our Electronic Health Record platform. A board certified physician
-                        or genetic counselor is provided to discuss the results.</p>
+                    <h5 class="text-bold text-gray-darkest">Responsibility</h5>
+                    <p>We are always committed to providing quality and effective reliable service to all  tutors and students alike.
+                    </p>
                 </div>
             </div>
         </div>
     </section>
     <!-- Material Parallax-->
-    <section id="services" class="parallax-container" data-parallax-img="{{ asset('publicArea/images/c1.jpg') }}">
+    <section id="services" class="parallax-container" data-parallax-img="{{ asset('publicArea/images/baner5.png') }}">
         <div class="parallax-content section-98 section-sm-110 context-dark">
             <div class="shell text-left">
                 <div class="range range-xs-center range-md-left">
                     <div class="col-lg-8">
-                        <h2>YOUR CARE SHOULD<br class="veil reveal-lg-inline-block">BE IN YOUR CONTROL...</h2>
+                        <h2>ඔබ ජය ගත යුතුය​<br class="veil reveal-lg-inline-block">අපි ඔබව මෙහෙයවන්නෙමු...</h2>
                     </div>
                     <div class="cell-sm-10 cell-md-8 cell-lg-5">
-                        <p class="offset-top-30 text-white">From cutting edge medical care, to hidden legal medical
-                            settlements - all at no cost!</p>
+                        {{-- <p class="offset-top-30 text-white">From cutting edge medical care, to hidden legal medical
+                            settlements - all at no cost!</p> --}}
                         <div class="offset-top-30"><a class="btn btn-ellipse btn-white"
                                 href="{{ route('register') }}">Create 100% free account now</a></div>
                     </div>
@@ -203,18 +207,16 @@
     <!-- main services-->
     <section class="section-98 section-sm-110">
         <div id="advantages" class="shell">
-            <h3>Carefree advantages</h3>
+            <h3>Subject(6-11 ශ්‍රේණි විෂයන්)</h3>
             <div class="offset-top-41">
                 <p class="custom-paragraph">
-                    We are passionate about our work because we know how much is at stake for you.
-                    We succeed in our mission every time your family gets a little bit safer.
-                    In today's rapidly evolving world, what we do at Consumer Reports must be as transformative and
-                    groundbreaking as the new technologies,products and services entering people's lives every day.</p>
+                    ඉගෙනුම් ඉගැන්වීම් ක්‍රියාවලියේ වසර තුනක පළපුරුද්ද සහිත ඇදුරු මඩුල්ල සාම්ප්‍රදායික ඉගැන්වීම් ක්‍රමවේද 
+                    අභිභවා යමින් නව තාක්‍ෂණික ක්‍රමවේද යොදා ගනිමින් සිසු හඳවත් දිනා ගනිමින් අධ්‍යාපනය ලබා දීම​.</p>
             </div>
             <div class="range offset-top-60 text-md-left">
                 <div class="container cell-sm-6 cell-md-4">
                     <div class="service"><img class="img-responsive"
-                            src="{{ asset('../publicArea/images/maths.jpeg') }}" width="320" height="320"
+                            src="{{ asset('../publicArea/images/sub1.png') }}" width="320" height="320"
                             alt="" />
                         <div class="overlay">
                             <div class="text">6-11 ශ්‍රේණි</div>
@@ -224,16 +226,16 @@
                 </div>
                 <div class="container cell-sm-6 cell-md-4 offset-top-50 offset-sm-top-0">
                     <div class="service"><img class="img-responsive"
-                            src="{{ asset('../publicArea/images/it.jpg') }}" width="320" height="320" alt="" />
+                            src="{{ asset('../publicArea/images/sub1.png') }}" width="320" height="320" alt="" />
                         <div class="overlay">
                             <div class="text">6-11 ශ්‍රේණි</div>
-                            <div class="text">තොරතුරු හා සන්නිවේදන තාක්ෂණය </div>
-                        </div><a class="service-desc h6" href="{{  route('register') }}">Information Technology</a>
+                            <div class="text textit">තොරතුරු හා සන්නිවේදන තාක්ෂණය </div>
+                        </div><a class="service-desc h6" href="{{  route('register') }}">Information and Communication Technology </a>
                     </div>
                 </div>
                 <div class="container cell-sm-6 cell-md-4 offset-top-50 offset-md-top-0">
                     <div class="service"><img class="img-responsive"
-                            src="{{ asset('../publicArea/images/science.png') }}" width="320" height="320" alt="" />
+                            src="{{ asset('../publicArea/images/sub1.png') }}" width="320" height="320" alt="" />
                         <div class="overlay">
                             <div class="text">6-11 ශ්‍රේණි</div>
                             <div class="text">විද්‍යාව </div>
@@ -242,7 +244,7 @@
                 </div>
                 <div class="container cell-sm-6 cell-md-4 offset-top-50">
                     <div class="service"><img class="img-responsive"
-                            src="{{ asset('../publicArea/images/history.jpeg') }}" width="320" height="320" alt="" />
+                            src="{{ asset('../publicArea/images/sub1.png') }}" width="320" height="320" alt="" />
                         <div class="overlay">
                             <div class="text">6-11 ශ්‍රේණි</div>
                             <div class="text">ඉතිහාසය </div>
@@ -251,7 +253,7 @@
                 </div>
                 <div class="container cell-sm-6 cell-md-4 offset-top-50">
                     <div class="service"><img class="img-responsive"
-                            src="{{ asset('../publicArea/images/sinhala.jpg') }}" width="320" height="320" alt="" />
+                            src="{{ asset('../publicArea/images/sub1.png') }}" width="320" height="320" alt="" />
                         <div class="overlay">
                             <div class="text">6-11 ශ්‍රේණි</div>
                             <div class="text">සිංහල භාෂාව හා සාහිත්‍යය.</div>
@@ -260,7 +262,7 @@
                 </div>
                 <div class="container cell-sm-6 cell-md-4 offset-top-50">
                     <div class="service"><img class="img-responsive"
-                            src="{{ asset('../publicArea/images/bud.jpg') }}" width="320" height="320" alt="" />
+                            src="{{ asset('../publicArea/images/sub1.png') }}" width="320" height="320" alt="" />
                         <div class="overlay">
                             <div class="text">6-11 ශ්‍රේණි</div>
                             <div class="text">බුද්ධ ධර්මය
@@ -429,18 +431,16 @@ alt="" />
 </div>
 <!-- RD Parallax-->
 </section> --}}
-<section class="parallax-container" data-parallax-img="{{ asset('publicArea/images/s5.jpg') }}">
+<section class="parallax-container" data-parallax-img="{{ asset('publicArea/images/baner4.png') }}">
     <div class="parallax-content section-98 section-sm-110 context-dark">
         <div class="shell text-left">
             <div class="range range-xs-center range-md-left">
                 <div class="cell-sm-10 cell-md-8 cell-lg-5">
-                    <h2>Aligned with your life</h2>
-                    <p class="offset-top-30 text-white">Partnering you with a doctor who really gets to know you,
-                        listens to you, and has time for you.
-                        We support anyone who does not have a primary care doctor, or has a primary care doctor but is
-                        looking for more convenient and more personalized care.</p>
+                    <h2>ඔබේ ජීවිතය අප සමග එක්ව පෙළගසමු​</h2>
+                    <p class="offset-top-30 text-white">දරුවාගේ ඉගෙනුම් ඉගැන්වීම් ක්‍රියාවලිය සම්බන්ධව අපගේ උපදෙස් ලබා ගැනීමට ඇදුරු 
+                        මඩුල්ල සම්බන්ධීකරණය කර ගැනීම​.</p>
                     <div class="offset-top-30"><a class="btn btn-ellipse btn-white"
-                            href="">Connect As Teachers</a></div>
+                    href="{{route('login')}}">Connect As Teachers</a></div>
                 </div>
             </div>
         </div>

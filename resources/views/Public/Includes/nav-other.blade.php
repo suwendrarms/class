@@ -76,14 +76,14 @@
                             </li>
                             <li><a href="{{ route('home') }}#about"><span>About</span></a>
                             </li>
-                            <li><a href="{{ route('home') }}#advantages"><span>Advantages</span></a>
+                            <li><a href="{{ route('home') }}#advantages"><span>Subject</span></a>
                             </li>
 
-                            <li id="physician"><a href=""><span>Physician</span></a>
+                            <li id="physician"><a href="{{route('teacher')}}"><span>Teachers</span></a>
                             </li>
                             {{-- <li><a href="{{ route('home') }}#testimonials"><span>Testimonials</span></a>
                             </li> --}}
-                            <li id="work"><a href=""><span>How It Works</span></a>
+                            <li id="work"><a href="{{route('work')}}"><span>How We Works</span></a>
                             </li>
                             <li id="contact"><a href=""><span>Contact Us</span></a>
                             </li>

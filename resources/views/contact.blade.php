@@ -20,7 +20,7 @@
                             </div>
                             <br>
                             <h5 class="sub-title">Let's get help.</h5>
-                            <form class="user" action="{{ route('contact.send') }}" method="POST">
+                        <form class="user" action="{{route('contact.send')}}" method="POST">
                                 @csrf
                                 <div class="form-group">
                                     <input type="email" class="form-control" name="email" id="email"
@@ -38,10 +38,10 @@
                                 </div>
 
                                 <div class="form-group">
-                                    <textarea class="form-control" name="message" id="message" rows="10"
+                                    <textarea class="form-control" name="msg" id="msg" rows="10"
                                         aria-describedby="helpId" placeholder="Your Message " required></textarea>
                                 </div>
-                                <div class="form-group">
+                                {{-- <div class="form-group">
                                     <div class="g-recaptcha"
                                         data-sitekey="{{ config('services.google_recaptcha.site_key') }}">
                                     </div>
@@ -50,7 +50,7 @@
                                         <strong>{{ $message }}</strong>
                                     </span>
                                     @enderror
-                                </div>
+                                </div> --}}
                                 <div class="offset-top-20">
                                     <div class="reveal-sm-flex offset-none range-xs-middle text-center text-sm-left">
                                         <button class="btn btn-primary" type="submit">Send</button>
