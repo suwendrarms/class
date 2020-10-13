@@ -17,8 +17,7 @@
                                     class="icon icon-xs icon-circle icon-white-17 icon-gray-light"><i
                                         class="martop color-chng fas fa-phone fa-rotate-90"></i></span>
                             </div>
-                            <div class="unit-body"><a class="text-white color-chng" href="tel:18002598897">1-800
-                                    259-8897</a>
+                            <div class="unit-body"><a class="text-white color-chng" href="tel:18002598897">071 993 5386</a>
                             </div>
                         </div>
                     </address>
@@ -28,10 +27,7 @@
                                     class="icon icon-xs icon-circle icon-white-17 icon-gray-light"><i
                                         class="fas color-chng fa-map-marker-alt martop"></i></span>
                             </div>
-                            <div class="unit-body"><a class="color-chng text-white" href="#"> 11403 Barker Cypress, Ste
-                                    J #122
-                                    ,<br>
-                                    Cypress, TX 77433</a></div>
+                            <div class="unit-body"><a class="color-chng text-white" href="#">Colombo, Sri Lanka</a></div>
 
                         </div>
                     </address>
