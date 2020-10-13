@@ -68,7 +68,7 @@
                                     </div>
                                     <br>
                                     <div class="text-center">
-                                        <a href="{{ route('password.request') }}" class="forgot-password text-center"> I
+                                        <a href="" class="forgot-password text-center"> I
                                             forgot
                                             my
                                             password</a>

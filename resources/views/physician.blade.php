@@ -24,7 +24,7 @@
         <!-- Header -->
         <div class="col-lg-12 mt-3 mb-5">
             <div class="row main-header justify-content-center">
-                Create A Truly Care-Free Practice - Patient Centric and Profitable!
+                
             </div>
         </div>
         <!-- Crete your free account  -->
@@ -38,11 +38,11 @@
                 </div>
                 <div class="col-lg-7 mt-2 physician-offers">
                     <ul>
-                        <li>Attract More Patients</li>
-                        <li>Increase Patient Encounters</li>
+                        <li>coming soon.....</li>
+                        {{-- <li>Increase Patient Encounters</li>
                         <li>Boost Revenue Per Patient</li>
                         <li>Better Patient Outcomes</li>
-                        <li>Receive upto <b>$900,000</b> Just to Start Out!</li>
+                        <li>Receive upto <b>$900,000</b> Just to Start Out!</li> --}}
                     </ul>
                     <div class="row">
                         <div class="col-lg-12 mt-4">
