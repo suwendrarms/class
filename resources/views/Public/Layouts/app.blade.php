@@ -41,7 +41,7 @@
     @endif
 
     <div id="loader">
-        <h2 class="animate">Care Free Now</h2>
+        <h2 class="animate">Nenabima Education Platform</h2>
     </div>
     @yield('content')
 
