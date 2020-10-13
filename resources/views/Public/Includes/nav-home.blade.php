@@ -20,8 +20,7 @@
                                     class="icon icon-xs icon-circle icon-white-17 icon-gray-light"><i
                                         class="martop color-chng fas fa-phone fa-rotate-90"></i></span>
                             </div>
-                            <div class="unit-body"><a class="text-white color-chng" href="tel:18002598897">1-800
-                                    259-8897</a>
+                            <div class="unit-body"><a class="text-white color-chng" href="tel:18002598897">071 993 5386</a>
                             </div>
                         </div>
                     </address>
@@ -31,10 +30,7 @@
                                     class="icon icon-xs icon-circle icon-white-17 icon-gray-light"><i
                                         class="fas color-chng fa-map-marker-alt martop"></i></span>
                             </div>
-                            <div class="unit-body"><a class="color-chng text-white" href="#"> 11403 Barker Cypress, Ste
-                                    J #122
-                                    ,<br>
-                                    Cypress, TX 77433</a></div>
+                            <div class="unit-body"><a class="color-chng text-white" href="#"> Colombo, Sri Lanka</a></div>
 
 
 
@@ -83,17 +79,17 @@
                             </li>
                             <li id="abt"><a class="page-scroll" href="#about"><span>About</span></a>
                             </li>
-                            <li id="adv"><a class="page-scroll" href="#advantages"><span>Advantages</span></a>
+                            <li id="adv"><a class="page-scroll" href="#advantages"><span>Subject</span></a>
                             </li>
 
-                            <li><a class="page-scroll" href=""><span>Physician</span></a>
+                            <li><a class="page-scroll" href="{{route('teacher')}}"><span>Teachers</span></a>
                             </li>
                             {{-- <li id="testi"><a class="page-scroll" href="#testimonials"><span>Testimonials</span></a>
                             </li> --}}
-                            <li><a class="page-scroll" href=""><span>How It Works</span></a>
+                            <li><a class="page-scroll" href="{{route('work')}}"><span>How we Works</span></a>
                             </li>
 
-                            <li><a class="page-scroll" href=""><span>Contact Us</span></a>
+                        <li><a class="page-scroll" href="{{route('contact')}}"><span>Contact Us</span></a>
                             </li>
                             <li><a href="javascript:void(0)"><span>Account</span></a>
                                 <ul class="rd-navbar-dropdown">

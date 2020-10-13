@@ -9,12 +9,12 @@
     <!-- Modern Breadcrumbs-->
     <section class="breadcrumb-modern context-dark text-md-left">
         <div class="shell section-34 section-md-top-110 section-md-bottom-41">
-            <h2>Physician</h2>
+            <h2>Teachers</h2>
             <ul class="list-inline list-inline-arrows p offset-top-34 offset-md-top-70">
                 <li><a class="text-white" href="{{ route('home') }}">Home&nbsp;</a>
                 </li>
                 <i class="fas fa-xs fa-arrow-right"></i>
-                <li class="text-white-50">Physician
+                <li class="text-white-50">Teachers
                 </li>
             </ul>
         </div>
@@ -33,7 +33,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-4">
                     <div class="row ">
-                        <img class="physician-img" src="{{ asset('img/physician.jpg') }}" alt="physician">
+                        <img class="physician-img" src="{{ asset('publicArea/images/sub1.png') }}" alt="physician">
                     </div>
                 </div>
                 <div class="col-lg-7 mt-2 physician-offers">
@@ -49,8 +49,7 @@
                             <div class="row justify-content-center reg-btn left-btn">
 
                             <h6 class="text-center">
-                            <a href="{{ route('pcp-register') }}" class="btn btn-primary">Create
-                                Your Free Account Now</a></h6>
+                            <a href="" class="btn btn-primary">Contact Now</a></h6>
                             </div>
                        </div>
                     </div>
@@ -60,7 +59,7 @@
 
     </section>
     <!-- section two -->
-    <section class="section2 section-sm-110 ml-5 mr-5">
+    {{-- <section class="section2 section-sm-110 ml-5 mr-5">
         <div class="col-lg-12 ">
             <div class="row main-header justify-content-center mb-5">
                 Take Your Practice To The Next Level!
@@ -92,7 +91,7 @@
                 <a href="#">or click here watch a demo</a>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- section three -->
     {{-- <section class="Start-zero-account">
         <div class="container">
@@ -116,7 +115,11 @@
 @section('css')
 <style>
     .breadcrumb-modern {
-        margin-top: 13%;
+        margin-top: 11%;
+        background: url("{{ asset('../publicArea/images/baner3.png') }}");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
     }
 
     .color-chng {

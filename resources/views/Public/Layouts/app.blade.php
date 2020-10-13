@@ -23,7 +23,7 @@
             <div class="col-lg-12">
                 <h4 class="text-center">
                     <small>
-                        <a class="text-white" href=""> <i class="fas fa-exclamation-circle "
+                    <a class="text-white" href="{{route('covid')}}"> <i class="fas fa-exclamation-circle "
                                 data-fa-transform="grow-6"></i>
                             <strong>Important</strong> Covid 19
                             Information</a>

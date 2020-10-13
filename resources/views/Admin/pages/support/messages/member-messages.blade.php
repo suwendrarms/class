@@ -288,8 +288,9 @@
                                                     class="fas fa-exclamation-circle mr-3"></i><small>You
                                                     Can not
                                                     Continue This
-                                                    Conversation</small> </span>
+                                                    Conversation </small> </span>
                                         </div>
+                                        
                                     </div>
                                 </div>
                             </form>
