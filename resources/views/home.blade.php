@@ -156,32 +156,60 @@
         <div id="about" class="shell">
             <h3>About Us</h3>
             <h6 style="text-transform:none;">The Nenabima Education Platform offers a range of home study courses 
-                including school and university education courses to students in the SriLanka and overseas.Also sip sayura have lots 
+                including school in the SriLanka and overseas.Also nenabima have lots 
                 of e-publications based on education. We always following and applying to our education system new update technologies.We have 
                 a powerful lecturers panel and we are always trying to swipe to new page for future with innovations for developing our education system. 
                 We are doing some fight to pull up the education level of our world's students always.</h6>
+                <h6 style="text-transform:none;">නැණබිම​ අධ්‍යාපන වේදිකාව ශ්‍රී ලංකාවේ සහ විදේශයන්හි පාසල් සිසුන්ට ඔවුන්ගේ 
+                    නැණස විවෘත කර ගැනීමට උපකාර වන්නෙමු .
+                    එසේම අධ්‍යාපනය මත පදනම් වූ විද්‍යුත් ප්‍රකාශන රාශියක් ඇත. 
+                    අපි සෑම විටම අපගේ අධ්‍යාපන පද්ධතියට නව යාවත්කාලීන තාක්‍ෂණයන් අනුගමනය කරමින් නිමැවුම් කරන්නෙමු. 
+                    අපට ප්‍රබල ගුරු මණ්ඩලයක් සිටින අතර අපගේ අධ්‍යාපන ක්‍රමය සංවර්ධනය කිරීම සඳහා 
+                    නව්‍යකරණයන් සමඟ අනාගතය සඳහා නව පිටුවකට මාරුවීමට අපි සැමවිටම උත්සාහ කරමු. 
+                    අපේ ලෝකයේ සිසුන්ගේ අධ්‍යාපන මට්ටම සෑම විටම ඉහළ නැංවීම සඳහා  සටන් කරමින් සිටිමු.</h6>
             <div class="range offset-top-60">
                 <div class="cell-md-4">
                     <div class="icon icon-xlg icon-circle icon-default  icon-pills-xl"></div>
                     <h5 class="text-bold text-gray-darkest">Worldwide</h5>
                     <p>Nenabima Education Platform provides a efficient and effective learning management system services for educational needs not only in 
                         Sri Lanka but worldwide. </p>
+                    <p>
+                        නැණබිම අධ්‍යාපන වේදිකාව ශ්‍රී ලංකාවේ පමණක් නොව ලොව පුරා අධ්‍යාපන අවශ්‍යතා සඳහා කාර්යක්ෂම 
+                        හා  ප​ලදායී ඉගෙනුම් කළමනාකරණ පද්ධති සේවාවන් සපයයි.
+                    </p>
+
                 </div>
                 <div class="cell-md-4 offset-top-50 offset-md-top-0">
                     <div class="icon icon-xlg icon-circle icon-default icon-doctor-xl"></div>
                     <h5 class="text-bold text-gray-darkest">Online Study</h5>
-                    <p>Nenabima Education Platform has many courses specially prepared for students to study online that are conducted by highly qualified lecturers. </p>
+                    <p>Nenabima Education Platform has many courses specially prepared for students to
+                         study online that are conducted by highly qualified lecturers. </p>
+                         <p>
+                             
+                        ඉහළ සුදුසුකම් ලත් ගුරුවරුන් විසින් පවත්වනු ලබන දේශන, අන්තර්ජාලය හැදෑරීම සඳහා 
+                        විශේෂයෙන් සකස් කරන ලද අධ්‍යාපන වේදිකාවකි.
+                         </p>
                 </div>
                 <div class="cell-md-4 offset-top-50 offset-md-top-0">
                     <div class="icon icon-xlg icon-circle icon-default icon-doctor-01"></div>
                     <h5 class="text-bold text-gray-darkest">For Lecturers</h5>
                     <p>Nenabima Education Platform has a learning management system that enables lecturers to carry out teaching 
                         work extensively and effectively with most advanced technology. </p>
+                    <p>
+                        
+                        නැණබිම අධ්‍යාපන වේදිකාවට ඉගෙනුම් කළමණාකරණ පද්ධතියක් ඇති අතර එමඟින් ගුරුවරුන්ට 
+                වඩාත් දියුණු තාක්‍ෂණයෙන් ඉගැන්වීමේ කටයුතු පුළුල්ව හා  පලදායී ලෙස සිදු කිරීමට හැකි වේ.
+                    </p>
                 </div>
                 <div class="cell-md-4 offset-top-50 offset-md-top-0">
                     <div class="icon icon-xlg icon-circle icon-default icon-medical-car-xl"></div>
                     <h5 class="text-bold text-gray-darkest">Responsibility</h5>
                     <p>We are always committed to providing quality and effective reliable service to all  tutors and students alike.
+                    </p>
+
+                    <p>
+                        
+                සියලුම ගුරුවරුන්ට සහ සිසුන්ට ගුණාත්මක හා පලදායී විශ්වසනීය සේවාවක් සැපයීමට අපි සැමවිටම කැපවී සිටිමු.
                     </p>
                 </div>
             </div>
