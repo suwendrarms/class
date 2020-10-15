@@ -88,13 +88,14 @@
                             <h6 class="small reveal-inline-block inset-left-10 text-white">දැනුම​</h6>
                             <hr style="margin-bottom: 5px;">
                             <div class="offset-top-24 text-gray-light">
-                                <p>ගෝලීයකරණයත් සමග මිනිසා දැනුම සෙවිමට යොමු විය​.එමෙන්ම තරගකාරිත්වය මත විකාශනය වන ඉගෙනුම් රටාවක්ද බිහිි විය​.
-                                    ඒ තුල ගමන් කරන ඔබේ දරුවා දැනුමෙන් සන්නද්ධ කිරීම අපේ අරමුණයි. </p>
+                                <p>ගෝලීයකරණයත් සමග මිනිසා දැනුම සෙවිමට යොමු විය​.එමෙන්ම තරගකාරිත්වය මත විකාශනය වන ඉගෙනුම් රටාවක්ද බිහි විය​.
+                                    ඒ තුළ ගමන් කරන ඔබේ දරුවා දැනුමෙන් සන්නද්ධ කිරීම අපේ අරමුණයි. </p>
                             </div>
                         </div>
                         <div class="sheldue-more"><a class="btn btn-white btn-block btn-rect"
                                 href="{{route('work')}}">READ
-                                MORE</a></div>
+                                MORE</a>
+                        </div>
                     </div>
                 </div>
                 <div class="cell-sm-8 cell-md-5 cell-lg-3 offset-top-70 offset-md-top-0">
@@ -104,8 +105,8 @@
                             <h6 class="small reveal-inline-block inset-left-10 text-white">ආකල්ප​</h6>
                             <hr style="margin-bottom: 5px;">
                             <div class="offset-top-12 text-gray-light">
-                                <p>දැනුම පමණක් නොව දිවි ගමන සාර්ථක කර ගැනිමට අවශය වන 
-                                    ආධයාත්මික ගුණාංගයන් හදවත් තුල රෝපණය කරමින් දරුවාගේ ආකල්ප සංවර්ධනය කර යහපත් පුරවැසියෙකු දායාද කිරීම අපේ අරමුණයි.</p>
+                                <p>දැනුම පමණක් නොව දිවි ගමන සාර්ථක කර ගැනිමට අවශ්‍ය වන 
+                                    අධ්‍යාත්මික ගුණාංගයන් හදවත් තුළ රෝපණය කරමින් දරුවාගේ ආකල්ප සංවර්ධනය කර යහපත් පුරවැසියෙකු දායාද කිරීම අපේ අරමුණයි.</p>
                             </div>
                         </div>
                         <div class="sheldue-more"><a class="btn btn-white btn-block btn-rect"
@@ -122,7 +123,7 @@
                             <hr style="margin-bottom: 5px;">
                             <div class="offset-top-24 text-gray-light">
                                 <p>දැනුම ,ආකල්ප වලින් පිරිපුන් කල දරුවන් කුසලතාවයන් පිරි දරු පරපුරක් බවට පත් කොට ශිල්ප 
-                                    ඥානය ප්‍රායෝගිකව තම දියුණුවටත් සමාජ යහපතටත් යෙදවිය හැකි දරුවෙකු අපේ අරමුණයි.<p>
+                                    ඥානය ප්‍රායෝගිකව තම දියුණුවටත් සමාජ යහපතටත් යෙදවිය හැකි දරුවෙකු බිහි කිරීම​ අපේ අරමුණයි.<p>
                             </div>
                         </div>
                         <div class="sheldue-more"><a class="btn btn-white btn-block btn-rect"
@@ -139,7 +140,7 @@
                             <hr>
                             <div class="offset-top-24 text-gray-light">
                                 <p>ගුරුවරයා යනු මග පෙන්වන්නෙකි.ගෝලීයකරණයත් සමග ගුරුකේන්ඳ්‍රීය අධ්‍යාපනයෙන් මිදී ශිෂ්‍යකේන්ඳ්‍රීය 
-                                    අධ්‍යාපන රටාවකට යොමු විම හේතුවෙන් ස්වයං අධ්‍යයනය සුවිශේෂය.</p>
+                                    අධ්‍යාපන රටාවකට යොමු විම හේතුවෙන් ස්වයං අධ්‍යයනයේ නිරත වීම​ සුවිශේෂය.</p>
                             </div>
                         </div>
                         <div class="sheldue-more"><a class="btn btn-white btn-block btn-rect"
@@ -226,7 +227,7 @@
                 </div>
                 <div class="container cell-sm-6 cell-md-4 offset-top-50 offset-sm-top-0">
                     <div class="service"><img class="img-responsive"
-                            src="{{ asset('../publicArea/images/sub1.png') }}" width="320" height="320" alt="" />
+                            src="{{ asset('../publicArea/images/sub2.png') }}" width="320" height="320" alt="" />
                         <div class="overlay">
                             <div class="text">6-11 ශ්‍රේණි</div>
                             <div class="text textit">තොරතුරු හා සන්නිවේදන තාක්ෂණය </div>
@@ -244,7 +245,7 @@
                 </div>
                 <div class="container cell-sm-6 cell-md-4 offset-top-50">
                     <div class="service"><img class="img-responsive"
-                            src="{{ asset('../publicArea/images/sub1.png') }}" width="320" height="320" alt="" />
+                            src="{{ asset('../publicArea/images/sub4.png') }}" width="320" height="320" alt="" />
                         <div class="overlay">
                             <div class="text">6-11 ශ්‍රේණි</div>
                             <div class="text">ඉතිහාසය </div>
@@ -262,7 +263,7 @@
                 </div>
                 <div class="container cell-sm-6 cell-md-4 offset-top-50">
                     <div class="service"><img class="img-responsive"
-                            src="{{ asset('../publicArea/images/sub1.png') }}" width="320" height="320" alt="" />
+                            src="{{ asset('../publicArea/images/sub3.png') }}" width="320" height="320" alt="" />
                         <div class="overlay">
                             <div class="text">6-11 ශ්‍රේණි</div>
                             <div class="text">බුද්ධ ධර්මය
